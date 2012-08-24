@@ -1,0 +1,12 @@
+namespace MHBridge;
+
+/**
+ * mysql_connect
+ * 
+ * @param string $server Optional
+ * @param string $username Optional
+ * @param string $password Optional
+ * @param string $new_link Optional
+ * @param string $client_flags Optional
+ * @return array
+ */

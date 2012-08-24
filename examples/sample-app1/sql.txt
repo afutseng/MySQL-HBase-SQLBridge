@@ -1,0 +1,2 @@
+INSERT INTO `testmysqlapp`.`event` (`action_id`, `title`, `intro`, `date`, `registration_start`, `date_close`, `guide_unit`, `sponsor_unit`, `assist_unit`, `place`, `object`, `contractor`, `contractor_ext`, `people_limit`, `supply_meal`, `owner`) VALUES (NULL, 'Test event 測試活動', 'This is a test event. 
+這是一則測試活動', NOW(), NOW(), NOW(), 'guide_unit', 'sponsor_unit', 'assist_unit', 'place', 'object', 'contractor', '2401', '0', 'y', '1');
